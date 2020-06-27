@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmoGeneticoTSP", "AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP.csproj", "{038CD194-9A20-4CFA-BF2D-DD61BDF0459F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038CD194-9A20-4CFA-BF2D-DD61BDF0459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038CD194-9A20-4CFA-BF2D-DD61BDF0459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038CD194-9A20-4CFA-BF2D-DD61BDF0459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038CD194-9A20-4CFA-BF2D-DD61BDF0459F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B939C1-4C1B-4C3E-9875-827DA6CD8D1B}
+	EndGlobalSection
+EndGlobal

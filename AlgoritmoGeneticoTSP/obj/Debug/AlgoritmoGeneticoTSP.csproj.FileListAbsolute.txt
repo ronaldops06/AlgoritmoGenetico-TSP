@@ -1,0 +1,12 @@
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\bin\Debug\AlgoritmoGeneticoTSP.exe.config
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\bin\Debug\AlgoritmoGeneticoTSP.exe
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\bin\Debug\AlgoritmoGeneticoTSP.pdb
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\bin\Debug\ZedGraph.dll
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.csprojAssemblyReference.cache
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.Form1.resources
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.Properties.Resources.resources
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.csproj.GenerateResource.cache
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.csproj.CopyComplete
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.exe
+C:\Users\Ronaldo\source\repos\AlgoritmoGeneticoTSP\AlgoritmoGeneticoTSP\obj\Debug\AlgoritmoGeneticoTSP.pdb
